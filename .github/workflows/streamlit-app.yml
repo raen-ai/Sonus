@@ -1,4 +1,4 @@
-name: Streamlit app
+name: Testing
 
 on:
   push:
