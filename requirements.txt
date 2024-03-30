@@ -1,0 +1,6 @@
+openai
+streamlit
+google-generativeai
+pytest
+streamlit-mic-recorder
+python-dotenv
