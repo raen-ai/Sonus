@@ -7,7 +7,7 @@ permissions:
   contents: read
 
 jobs:
-  streamlit:
+  unit-testing:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

@@ -17,10 +17,7 @@
 *** 
 ## 💼 Business Use Case: Enhancing Productivity in Corporate Meetings with Sonus
 
-**Models Used:**
 
--   **Speech-to-Text Transcription:** OpenAI Whisper-1 Model
--   **Summarization:** Google AI Gemini-PRO Model
 
 **Background:**
 
@@ -55,6 +52,11 @@ Sonus revolutionizes the way businesses handle information from meetings, transf
   
 
 ## 🔨 Features
+
+**Models Used:**
+
+-   **Speech-to-Text Transcription:** OpenAI Whisper-1 Model
+-   **Summarization:** Google AI Gemini-PRO Model
 
 1.  **Live Recording:** Users can record audio live for generating a summary.
 
