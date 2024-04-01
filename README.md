@@ -6,6 +6,8 @@
 ![enter image description here](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ![Static Badge](https://img.shields.io/badge/build-Open%20Soruce-brightgreen?style=flat&label=Type) [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+[🎥 Voice over demo](https://youtu.be/0lyiJ59d0d4)
 ***
 
 > This project was created for the Google AI Hackathon 2024. This
@@ -14,6 +16,8 @@
 
 *** 
 ## 💼 Business Use Case: Enhancing Productivity in Corporate Meetings with Sonus
+
+
 
 **Background:**
 
@@ -48,6 +52,11 @@ Sonus revolutionizes the way businesses handle information from meetings, transf
   
 
 ## 🔨 Features
+
+**Models Used:**
+
+-   **Speech-to-Text Transcription:** OpenAI Whisper-1 Model
+-   **Summarization:** Google AI Gemini-PRO Model
 
 1.  **Live Recording:** Users can record audio live for generating a summary.
 
